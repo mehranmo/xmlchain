@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+XMLchain.egg-info/PKG-INFO
+XMLchain.egg-info/SOURCES.txt
+XMLchain.egg-info/dependency_links.txt
+XMLchain.egg-info/requires.txt
+XMLchain.egg-info/top_level.txt
+tests/__init__.py
+tests/test_xmlchain.py
+xmlchain/__init__.py
+xmlchain/xmlchain.py
+xmlchain/xmlchianET.py
